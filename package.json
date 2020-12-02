@@ -1,0 +1,23 @@
+{
+  "name": "elap_website_demo",
+  "version": "1.0.0",
+  "description": "Demo website creato a supporto di un lavoro di gruppo all\\'interno del corso IERFOP Programmare per l\\'accessibilità",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatrice-porcu/elap_demo_website.git"
+  },
+  "keywords": [
+    "website",
+    "tailwindcss"
+  ],
+  "author": "Beatrice Porcu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beatrice-porcu/elap_demo_website/issues"
+  },
+  "homepage": "https://github.com/beatrice-porcu/elap_demo_website#readme"
+}
